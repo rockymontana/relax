@@ -2,7 +2,7 @@
 ====================================
 [![Slack Status](http://slack-relax.herokuapp.com/badge.svg)](http://slack-relax.herokuapp.com/)
 
-**IMPORTANT NOTE:** Relax isn't yet ready for production, stay tunned for releases, beta version will come soon
+**IMPORTANT NOTE:** Relax isn't yet ready for production, stay tuned for releases, beta version will come soon
 
 Support our work and help us make this the best open source CMS, be our [patreon](http://patreon.com/relax)!
 
@@ -15,13 +15,24 @@ binding dynamic data to them.
 
 We're currently working on releasing the beta version which should come up early 2016. If you want to collaborate in the meantime or just say anything join us at [Relax Slack](http://slack-relax.herokuapp.com/)
 
-![Relax Screenshot](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/screenshot.jpg "Relax screenshot")
-
 **You can check the demo [here](http://demo.getrelax.io/admin)**
 
 Demo credentials:
  - user: demo
  - pass: demo
+
+New design for beta release
+------------
+
+(taken from using version in master branch, demo is outdated as master isn't yet stable)
+
+![Pages](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/pages.png)
+
+![Media](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/media.png)
+
+![Colors](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/colors.png)
+
+![New Schema](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/newschema.png)
 
 Installation
 ------------
